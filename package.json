@@ -4,7 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Ejercicio1": "node Ejercicio1.js",
+    "Ejercicio2": "node Ejercicio2.js",
+    "Ejercicio3": "node Ejercicio3.js",
+    "Ejercicio4": "node Ejercicio4.js",
+    "Ejercicio5": "node Ejercicio5.js",
+    "Ejercicio6": "node Ejercicio6.js",
+    "Ejercicio7": "node Ejercicio7.js",
+    "Ejercicio8": "node Ejercicio8.js",
+    "Ejercicio9": "node Ejercicio9.js",
+    "Ejercicio10": "node Ejercicio10.js"
   },
   "author": "",
   "license": "ISC"
